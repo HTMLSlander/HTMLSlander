@@ -30,7 +30,19 @@
 
 ###
 
-<p align="left">- 🔭 I’ve worked as the Leader and Front End Developer of Get Daily Drink Project in Future Impact Challenge.<br>- 📚 I'm currently studying Software Engineering.<br>- ⚡ In my free time I play sports and sleep 😴<br>- 💎As technology still moves on, I'm exploring Generative AI, Cloud Systems and BLockchain Technology.</p>
+<p align="left">- 🔭 I’ve worked as the Leader and Front End Developer of Get Daily Drink Project in Future Impact Challenge.<br>- 📚 I'm currently studying Software Engineering.<br>- ⚡ In my free time I play sports and sleep 😴<br>- 💎As technology still moves on, I'm exploring Generative AI, Cloud Systems and BLockchain Technology. Looking also to find a spot to learn Ionic & Capacitor for Embed Mobile Development (Android & iOS)</p>
+
+###
+
+<h3 align="left">👩‍💻  Responsabilities Taken</h3>
+
+###
+
+<p align="left">
+  - 🔭 Group Leader & Front-End Developer specializing in HTML, CSS, and JavaScript. <br>  
+  - 📚 Participated in the Future Impact Challenge, handling communication and information to align with project standards. <br>  
+  - ⚡ Open Source Contributor on GitHub. 🚀  
+</p>
 
 ###
 
