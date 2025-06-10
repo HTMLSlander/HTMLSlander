@@ -28,11 +28,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  I'm a Frontend Developer and...</h3>
+<h3 align="left">👩‍💻  React.js Front-end Developer </h3>
 
 ###
 
-<p align="left">- 🔭 I’ve worked as the Leader and Front End Developer of Get Daily Drink Project in Future Impact Challenge.<br>- 📚 I'm currently studying Software Engineering.<br>- ⚡ In my free time I play sports and sleep 😴<br>- 💎As technology still moves on, I'm exploring Generative AI, Cloud Systems and BLockchain Technology. Looking also to find a spot to learn Ionic & Capacitor for Embed Mobile Development (Android & iOS)</p>
+<p align="left">- 🔭 I’ve worked as the Leader and Front End Developer of Get Daily Drink Project in Future Impact Challenge.<br>- ⚡ In my free time I play sports and sleep 😴<br>- 💎As technology still moves on, I'm exploring Generative AI, Cloud Systems and Blockchain Technology. Looking also to find a spot to learn Ionic & Capacitor for Embed Mobile Development (Android & iOS)</p>
 
 ###
 
@@ -56,7 +56,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" height="40" alt="tailwindcss logo"  />
-  <img width="10" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
