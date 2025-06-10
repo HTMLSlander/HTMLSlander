@@ -9,18 +9,17 @@ I also have experience with **MongoDB** and **Express** for managing database AP
 
 <br>
 
-<br>
 <h3 align="left" style="font-size: 1.5rem">☎️ Contact Me</h3>
-###
+***
 <div align="center">
   <a href="https://www.linkedin.com/in/joshua-cabanillas-29410a1b2/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
    <a href="https://discordapp.com/users/713152343968972842" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
     <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=joshcabara22" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a> </div>
     
-###
+
 <br>
 <h3 align="left" style="font-size: 1.5rem">🛠 What I had learned so far</h3>
-###
+***
 
 
 <div align="center">
@@ -44,22 +43,21 @@ I also have experience with **MongoDB** and **Express** for managing database AP
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
-###
+
 
 <br>
 <h3 align="left" style="font-size: 1.5rem">👩‍💻  Responsabilities Taken</h3>
-###
+***
 
 <p align="left">
   - 🔭 Group Leader & Front-End Developer specializing in HTML, CSS, and JavaScript. <br>  
   - 📚 Participated in the Future Impact Challenge, handling communication and information to align with project standards. <br>  
   - ⚡ Open Source Contributor on GitHub. 🚀  
 </p>
-<br>
 
-###
+<br>
 <h3 align="left">🔥 My Stats :</h3>
-###
+***
 
 
 
