@@ -22,30 +22,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HTMLSlander.HTMLSlander&"  />
-</div>
-
-###
-
-<h3 align="left" style="font-size: 1.5rem">👩‍💻  I'm a front-end developer aimed to constantly learning so I can <del>pay out the bills and get </del> </h3>
-
-###
-
-<p align="left">- 🔭 I’ve worked as the Leader and Front End Developer of Get Daily Drink Project in Future Impact Challenge.<br>- ⚡ In my free time I play sports and sleep 😴<br>- 💎As technology still moves on, I'm exploring Generative AI, Cloud Systems and Blockchain Technology. Looking also to find a spot to learn Ionic & Capacitor for Embed Mobile Development (Android & iOS)</p>
-
-###
-
-<h3 align="left" style="font-size: 1.5rem">👩‍💻  Responsabilities Taken</h3>
-
-###
-
-<p align="left">
-  - 🔭 Group Leader & Front-End Developer specializing in HTML, CSS, and JavaScript. <br>  
-  - 📚 Participated in the Future Impact Challenge, handling communication and information to align with project standards. <br>  
-  - ⚡ Open Source Contributor on GitHub. 🚀  
-</p>
-
 ###
 
 <h3 align="left" style="font-size: 1.5rem">🛠 What I had learned so far</h3>
@@ -75,6 +51,32 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HTMLSlander.HTMLSlander&"  />
+</div>
+
+###
+
+<h3 align="left" style="font-size: 1.5rem">👩‍💻  I'm a front-end developer aimed to constantly learning so I can <del>pay out the bills and get </del> </h3>
+
+###
+
+<p align="left">- 🔭 I’ve worked as the Leader and Front End Developer of Get Daily Drink Project in Future Impact Challenge.<br>- ⚡ In my free time I play sports and sleep 😴<br>- 💎As technology still moves on, I'm exploring Generative AI, Cloud Systems and Blockchain Technology. Looking also to find a spot to learn Ionic & Capacitor for Embed Mobile Development (Android & iOS)</p>
+
+###
+
+<h3 align="left" style="font-size: 1.5rem">👩‍💻  Responsabilities Taken</h3>
+
+###
+
+<p align="left">
+  - 🔭 Group Leader & Front-End Developer specializing in HTML, CSS, and JavaScript. <br>  
+  - 📚 Participated in the Future Impact Challenge, handling communication and information to align with project standards. <br>  
+  - ⚡ Open Source Contributor on GitHub. 🚀  
+</p>
+
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
