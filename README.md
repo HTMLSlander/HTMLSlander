@@ -14,17 +14,25 @@ I am a dedicated and goal-oriented Front-end Developer. My main tech stack inclu
 I also have experience with **MongoDB** and **Express** for managing database APIs, as well as proficiency with **Git** and the **GitHub CLI** for repository management.
 ###
 
+<br>
+<br>
+###
 
+<h3 align="left" style="font-size: 1.5rem">🛠 What I had learned so far</h3>
+
+###
 <div align="center">
   <a href="https://www.linkedin.com/in/joshua-cabanillas-29410a1b2/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
    <a href="https://discordapp.com/users/713152343968972842" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
     <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=joshcabara22" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a> </div>
     
 ###
-
+<br>
+<br>
 <h3 align="left" style="font-size: 1.5rem">🛠 What I had learned so far</h3>
 
 ###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -47,7 +55,6 @@ I also have experience with **MongoDB** and **Express** for managing database AP
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
-
 ###
 
 <div align="center">
@@ -57,24 +64,28 @@ I also have experience with **MongoDB** and **Express** for managing database AP
 ###
 
 <p align="left">- 🔭 I’ve worked as the Leader and Front End Developer of Get Daily Drink Project in Future Impact Challenge.<br>- ⚡ In my free time I play sports and sleep 😴<br>- 💎As technology still moves on, I'm exploring Generative AI, Cloud Systems and Blockchain Technology. Looking also to find a spot to learn Ionic & Capacitor for Embed Mobile Development (Android & iOS)</p>
-
+<br>
+<br>
 ###
 
 <h3 align="left" style="font-size: 1.5rem">👩‍💻  Responsabilities Taken</h3>
 
 ###
 
+
 <p align="left">
   - 🔭 Group Leader & Front-End Developer specializing in HTML, CSS, and JavaScript. <br>  
   - 📚 Participated in the Future Impact Challenge, handling communication and information to align with project standards. <br>  
   - ⚡ Open Source Contributor on GitHub. 🚀  
 </p>
+<br>
+<br>
 
 
-
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HTMLSlander&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
