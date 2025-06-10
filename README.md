@@ -8,7 +8,7 @@
 
 ###
 
-<h2>## Hi 🍷🗿 I am Joshua Cabanillas, a.k.a. **HTMLSlander**
+<h3>Hi 🍷🗿 I am Joshua Cabanillas, a.k.a. **HTMLSlander**
 
 I am a dedicated and goal-oriented Front-end Developer. My main tech stack includes **React**, **TypeScript (TSX/JSX)**, **Tailwind CSS**, and **Bootstrap** for building UI and tool components.  
 I also have basic experience with **MongoDB** and **Express** for managing database APIs, as well as proficiency with **Git** and the **GitHub CLI** for repository management.</h2>
