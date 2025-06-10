@@ -4,9 +4,14 @@
 
 ###
 
-<h1 align="center" style="font-size: 16px;"># React.js Front-end Developer and Blockchain Enthusiast</h1>
+<h1 align="center" style="font-size: 16px;">### React.js Front-end Developer  Blockchain Enthusiast</h1>
 
 ###
+
+<h2>## Hi 🍷🗿 I am Joshua Cabanillas, a.k.a. **HTMLSlander**
+
+I am a dedicated and goal-oriented Front-end Developer. My main tech stack includes **React**, **TypeScript (TSX/JSX)**, **Tailwind CSS**, and **Bootstrap** for building UI and tool components.  
+I also have basic experience with **MongoDB** and **Express** for managing database APIs, as well as proficiency with **Git** and the **GitHub CLI** for repository management.</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/joshua-cabanillas-29410a1b2/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
    <a href="https://discordapp.com/users/713152343968972842" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
