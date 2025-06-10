@@ -3,7 +3,7 @@
 </div>
 
 ## <h1 align="center" > Hi 🍷🗿 I am Joshua Cabanillas, a.k.a. **HTMLSlander** | React Developer </h1>
-
+***
 I am a dedicated and goal-oriented Front-end Developer. My main tech stack includes **React**, **TypeScript (TSX/JSX)**, **Tailwind CSS**, and **Bootstrap** for building UI and tool components.  
 I also have experience with **MongoDB** and **Express** for managing database APIs, as well as proficiency with **Git** and the **GitHub CLI** for repository management.
 
