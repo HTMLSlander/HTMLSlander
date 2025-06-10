@@ -15,10 +15,9 @@ I also have experience with **MongoDB** and **Express** for managing database AP
 ###
 
 <br>
-<br>
 ###
 
-<h3 align="left" style="font-size: 1.5rem">🛠 What I had learned so far</h3>
+<h3 align="left" style="font-size: 1.5rem">☎️ Contact Me</h3>
 
 ###
 <div align="center">
@@ -27,7 +26,6 @@ I also have experience with **MongoDB** and **Express** for managing database AP
     <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=joshcabara22" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a> </div>
     
 ###
-<br>
 <br>
 <h3 align="left" style="font-size: 1.5rem">🛠 What I had learned so far</h3>
 
@@ -65,7 +63,6 @@ I also have experience with **MongoDB** and **Express** for managing database AP
 
 <p align="left">- 🔭 I’ve worked as the Leader and Front End Developer of Get Daily Drink Project in Future Impact Challenge.<br>- ⚡ In my free time I play sports and sleep 😴<br>- 💎As technology still moves on, I'm exploring Generative AI, Cloud Systems and Blockchain Technology. Looking also to find a spot to learn Ionic & Capacitor for Embed Mobile Development (Android & iOS)</p>
 <br>
-<br>
 ###
 
 <h3 align="left" style="font-size: 1.5rem">👩‍💻  Responsabilities Taken</h3>
@@ -78,7 +75,6 @@ I also have experience with **MongoDB** and **Express** for managing database AP
   - 📚 Participated in the Future Impact Challenge, handling communication and information to align with project standards. <br>  
   - ⚡ Open Source Contributor on GitHub. 🚀  
 </p>
-<br>
 <br>
 
 
