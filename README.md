@@ -9,8 +9,8 @@ I also have experience with **MongoDB** and **Express** for managing database AP
 
 <br>
 
-## <h3 align="left" style="font-size: 1.5rem">☎️ Contact Me</h3>
-
+## <h3 align="center" style="font-size: 1.5rem">☎️ Contact Me</h3>
+***
 <div align="center">
   <a href="https://www.linkedin.com/in/joshua-cabanillas-29410a1b2/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
    <a href="https://discordapp.com/users/713152343968972842" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
@@ -19,8 +19,8 @@ I also have experience with **MongoDB** and **Express** for managing database AP
 
 <br>
 
-## <h3 align="left" style="font-size: 1.5rem">🛠 What I had learned so far</h3>
-
+## <h3 align="right" style="font-size: 1.5rem">🛠 What I had learned so far</h3>
+***
 
 
 <div align="center">
