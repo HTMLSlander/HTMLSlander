@@ -1,24 +1,8 @@
 <div align="center">
   <img height="150" src="https://i.makeagif.com/media/5-03-2024/iCCWYf.gif"  />
 </div>
-<table>
-  <tr>
-    <td>
-     <h3 align="left" style="font-size: 1.5rem">🛠 React.js Front-end Developer | Blockchain Enthusiast</h3> 
-    </td>
-    <td>
-        <div align="center">
-          <img src="https://visitor-badge.laobi.icu/badge?page_id=HTMLSlander.HTMLSlander&"  />
-        </div>
-    </td>
-  </tr>
-</table>
-###
-### 
 
-
-
-## <h1 align="left" > Hi 🍷🗿 I am Joshua Cabanillas, a.k.a. **HTMLSlander** </h1>
+## <h1 align="left" > Hi 🍷🗿 I am Joshua Cabanillas, a.k.a. **HTMLSlander** | React Developer </h1>
 
 I am a dedicated and goal-oriented Front-end Developer. My main tech stack includes **React**, **TypeScript (TSX/JSX)**, **Tailwind CSS**, and **Bootstrap** for building UI and tool components.  
 I also have experience with **MongoDB** and **Express** for managing database APIs, as well as proficiency with **Git** and the **GitHub CLI** for repository management.
