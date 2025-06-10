@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center" style="font-size: 2.5rem">React.js Front-end Developer and Blockchain Enthusiast</h1>
+<h1 align="center" style="font-size: 16px;">React.js Front-end Developer and Blockchain Enthusiast</h1>
 
 ###
 
