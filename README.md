@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hey There!👋</h1>
+<h1 align="center" style="font-size 2.5rem">React.js Front-end Developer and Blockchain Enthusiast</h1>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  React.js Front-end Developer </h3>
+<h3 align="left" style="font-size 1.5rem">👩‍💻  I'm a front-end developer aimed to constantly learning so I can <del>pay out the bills and get </del> </h3>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Responsabilities Taken</h3>
+<h3 align="left" style="font-size 1.5rem">👩‍💻  Responsabilities Taken</h3>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left" style="font-size 1.5rem">🛠 What I had learned so far</h3>
 
 ###
 
