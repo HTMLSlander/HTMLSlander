@@ -8,10 +8,9 @@ I am a dedicated and goal-oriented Front-end Developer. My main tech stack inclu
 I also have experience with **MongoDB** and **Express** for managing database APIs, as well as proficiency with **Git** and the **GitHub CLI** for repository management.
 
 <br>
-###
+
 <br>
 <h3 align="left" style="font-size: 1.5rem">☎️ Contact Me</h3>
-
 ###
 <div align="center">
   <a href="https://www.linkedin.com/in/joshua-cabanillas-29410a1b2/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
@@ -21,7 +20,7 @@ I also have experience with **MongoDB** and **Express** for managing database AP
 ###
 <br>
 <h3 align="left" style="font-size: 1.5rem">🛠 What I had learned so far</h3>
-
+###
 
 
 <div align="center">
@@ -49,7 +48,7 @@ I also have experience with **MongoDB** and **Express** for managing database AP
 
 <br>
 <h3 align="left" style="font-size: 1.5rem">👩‍💻  Responsabilities Taken</h3>
-
+###
 
 <p align="left">
   - 🔭 Group Leader & Front-End Developer specializing in HTML, CSS, and JavaScript. <br>  
@@ -60,7 +59,7 @@ I also have experience with **MongoDB** and **Express** for managing database AP
 
 ###
 <h3 align="left">🔥 My Stats :</h3>
-
+###
 
 
 
