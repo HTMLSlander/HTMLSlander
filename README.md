@@ -2,14 +2,14 @@
   <img height="150" src="https://i.makeagif.com/media/5-03-2024/iCCWYf.gif"  />
 </div>
 
-## <h1 align="left" > Hi 🍷🗿 I am Joshua Cabanillas, a.k.a. **HTMLSlander** | React Developer </h1>
+## <h1 align="center" > Hi 🍷🗿 I am Joshua Cabanillas, a.k.a. **HTMLSlander** | React Developer </h1>
 
 I am a dedicated and goal-oriented Front-end Developer. My main tech stack includes **React**, **TypeScript (TSX/JSX)**, **Tailwind CSS**, and **Bootstrap** for building UI and tool components.  
 I also have experience with **MongoDB** and **Express** for managing database APIs, as well as proficiency with **Git** and the **GitHub CLI** for repository management.
 
 <br>
 ###
-
+<br>
 <h3 align="left" style="font-size: 1.5rem">☎️ Contact Me</h3>
 
 ###
@@ -22,7 +22,6 @@ I also have experience with **MongoDB** and **Express** for managing database AP
 <br>
 <h3 align="left" style="font-size: 1.5rem">🛠 What I had learned so far</h3>
 
-###
 
 
 <div align="center">
@@ -48,10 +47,8 @@ I also have experience with **MongoDB** and **Express** for managing database AP
 </div>
 ###
 
-
+<br>
 <h3 align="left" style="font-size: 1.5rem">👩‍💻  Responsabilities Taken</h3>
-
-###
 
 
 <p align="left">
@@ -61,10 +58,10 @@ I also have experience with **MongoDB** and **Express** for managing database AP
 </p>
 <br>
 
-
+###
 <h3 align="left">🔥 My Stats :</h3>
 
-###
+
 
 
 <div align="center">
